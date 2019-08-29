@@ -1,0 +1,5 @@
+prom/alertmanager ranchercharts/prom-alertmanager v0.18.0
+prom/node-exporter ranchercharts/prom-node-exporter v0.18.0
+prom/prometheus ranchercharts/prom-prometheus v2.11.1
+prom/pushgateway ranchercharts/prom-pushgateway v0.8.0
+jimmidyson/configmap-reload ranchercharts/jimmidyson-configmap-reload v0.2.2

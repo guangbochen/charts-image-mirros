@@ -1,6 +1,6 @@
 #!/bin/sh
 
-function mirror_image {
+mirror_image() {
   image_src="${1}"
   image_dst="${2}"
   image_tag="${3}"

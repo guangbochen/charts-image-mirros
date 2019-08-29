@@ -1,0 +1,9 @@
+confluentinc/cp-zookeeper  ranchercharts/confluentinc-cp-zookeeper 5.3.0
+confluentinc/cp-kafka  ranchercharts/confluentinc-cp-kafka 5.3.0
+confluentinc/cp-schema-registry  ranchercharts/confluentinc-schema-registry 5.3.0
+confluentinc/cp-kafka-rest  ranchercharts/confluentinc-cp-kafka-rest 5.3.0
+confluentinc/cp-kafka-connect  ranchercharts/confluentinc-cp-kafka-connect 5.3.0
+confluentinc/cp-ksql-server  ranchercharts/confluentinc-cp-ksql-server 5.3.0
+confluentinc/cp-ksql-server  ranchercharts/confluentinc-cp-ksql-server 5.3.0
+confluentinc/cp-enterprise-control-center  ranchercharts/confluentinc-cp-enterprise-control-center 5.3.0
+landoop/kafka-topics-ui  ranchercharts/landoop-kafka-topics-ui latest

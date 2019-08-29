@@ -1,8 +1,12 @@
-- name: docker-mirror-istio
+kind: pipeline
+name: default
+
+steps:
+- name: docker-mirror
   image: docker
   volumes:
   - name: docker
-    path: /var/run/docker.sock
+    path: /var/run/
   environment:
     PASSWORD:
       from_secret: docker_password
@@ -10,7 +14,7 @@
       from_secret: docker_username
   commands:
   - docker login -u $USERNAME -p $PASSWORD
-  - cat mirror-images/*.txt | ./scripts/docker-pull-pusher.sh
+  - git diff --unified=0 ./mirror-images/*.txt | grep '^+[a-zA-Z0-9]' | cut -c 2- | ./scripts/docker-pull-pusher.sh
   settings:
     custom_dns: 1.1.1.1
   when:
@@ -19,3 +23,8 @@
       - "refs/heads/master"
     event:
     - push
+
+volumes:
+- name: docker
+  host:
+    path: /var/run/
