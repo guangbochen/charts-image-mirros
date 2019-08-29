@@ -1,0 +1,1 @@
+docker.io/drone/drone ranchercharts/drone-drone 1.2

@@ -1,0 +1,5 @@
+docker.elastic.co/kibana/kibana ranchercharts/kibana-kibana 7.3.0
+docker.elastic.co/elasticsearch/elasticsearch ranchercharts/elasticsearch-elasticsearch 7.3.0
+docker.elastic.co/beats/filebeat ranchercharts/beats-filebeat 7.3.0
+docker.elastic.co/beats/metricbeat ranchercharts/beats-metricbeat 7.3.0
+quay.io/coreos/kube-state-metrics ranchercharts/coreos-kube-state-metrics v1.7.2

@@ -1,0 +1,21 @@
+- name: docker-mirror-istio
+  image: docker
+  volumes:
+  - name: docker
+    path: /var/run/docker.sock
+  environment:
+    PASSWORD:
+      from_secret: docker_password
+    USERNAME:
+      from_secret: docker_username
+  commands:
+  - docker login -u $USERNAME -p $PASSWORD
+  - cat mirror-images/*.txt | ./scripts/docker-pull-pusher.sh
+  settings:
+    custom_dns: 1.1.1.1
+  when:
+    ref:
+      include:
+      - "refs/heads/master"
+    event:
+    - push
