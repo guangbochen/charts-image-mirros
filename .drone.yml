@@ -3,7 +3,7 @@ name: default
 
 steps:
 - name: docker-mirror
-  image: docker
+  image: docker:git
   volumes:
   - name: docker
     path: /var/run/
