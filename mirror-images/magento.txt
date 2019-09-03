@@ -1,0 +1,5 @@
+bitnami/magento ranchercharts/bitnami-magento 2.3.1-debian-9-r56
+lusotycoon/apache-exporter ranchercharts/lusotycoon-apache-exporter v0.5.0
+bitnami/mariadb ranchercharts/bitnami-mariadb 10.1.40
+prom/mysqld-exporter ranchercharts/prom-mysqld-exporter v0.10.0
+docker.elastic.co/elasticsearch/elasticsearch-oss ranchercharts/elasticsearch-elasticsearch-oss 6.8.2
