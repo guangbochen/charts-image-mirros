@@ -1,0 +1,3 @@
+quay.io/jetstack/cert-manager-controller ranchercharts/jetstack-cert-manager-controller v0.9.0
+quay.io/jetstack/cert-manager-webhook ranchercharts/jetstack-cert-manager-webhook v0.9.0
+quay.io/jetstack/cert-manager-cainjector ranchercharts/jetstack-cert-manager-cainjector v0.9.0
