@@ -23,6 +23,7 @@ steps:
       - "refs/heads/master"
     event:
     - push
+    - pull_request
 
 volumes:
 - name: docker
