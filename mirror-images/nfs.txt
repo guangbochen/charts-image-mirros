@@ -1,0 +1,2 @@
+quay.io/external_storage/nfs-client-provisioner  ranchercharts/external_storage-nfs-client-provisioner v3.1.0-k8s1.11
+quay.io/kubernetes_incubator/nfs-provisioner ranchercharts/kubernetes_incubator-nfs-provisioner v2.2.1-k8s1.12
