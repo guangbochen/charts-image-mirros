@@ -1,0 +1,2 @@
+docker.io/vault ranchercharts/vault 1.2.2
+docker.io/vault ranchercharts/vault 1.2.1
