@@ -1,5 +1,5 @@
 # charts-mirror-images
-[![Build Status](http://13.231.130.18:31766/api/badges/guangbochen/charts-image-mirros/status.svg)](http://13.231.130.18:31766/guangbochen/charts-image-mirros)
+[![Build Status](http://drone.cnrancher.cn/api/badges/guangbochen/charts-image-mirros/status.svg)](http://drone.cnrancher.cn/guangbochen/charts-image-mirros)
 
 This repo sync [rancher/charts](https://github.com/rancher/charts) images to the [ranchercharts](https://cloud.docker.com/u/ranchercharts) repo in the Docker Hub.
 

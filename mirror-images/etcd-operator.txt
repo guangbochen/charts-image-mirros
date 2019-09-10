@@ -1,0 +1,2 @@
+quay.io/coreos/etcd-operator ranchercharts/coreos-etcd-operator v0.9.4
+quay.io/coreos/etcd ranchercharts/coreos-etcd v3.2.25
