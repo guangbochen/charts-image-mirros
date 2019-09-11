@@ -1,1 +1,2 @@
 chartmuseum/chartmuseum ranchercharts/chartmuseum-chartmuseum v0.8.2
+chartmuseum/chartmuseum ranchercharts/chartmuseum-chartmuseum v0.9.0
