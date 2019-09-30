@@ -1,0 +1,2 @@
+bitnami/wordpress ranchercharts/bitnami-wordpress 5.2.3-debian-9-r5
+bitnami/mariadb ranchercharts/bitnami-mariadb 10.3.18-debian-9-r0
