@@ -1,0 +1,14 @@
+pingcap/tidb-operator ranchercharts/pingcap_tidb-operator v1.0.1
+pingcap/pd ranchercharts/pingcap_pd v3.0.1
+pingcap/tikv ranchercharts/pingcap_tikv v3.0.1
+pingcap/tidb ranchercharts/pingcap_tidb v3.0.1
+pingcap/tidb-monitor-initializer ranchercharts/pingcap_tidb-monitor-initializer v3.0.1
+pingcap/tidb-monitor-reloader ranchercharts/pingcap_tidb-monitor-reloader v1.0.0
+grafana/grafana ranchercharts/grafana_grafana 6.0.1
+prom/prometheus ranchercharts/prom_prometheus v2.11.1
+pingcap/tidb-binlog ranchercharts/pingcap_tidb-binlog v3.0.1
+pingcap/tidb-lightning ranchercharts/pingcap_tidb-lightning v3.0.1
+prom/pushgateway ranchercharts/prom_pushgateway v0.3.1
+tnir/mysqlclient ranchercharts/tnir_mysqlclient 1.4.2
+k8s.gcr.io/kube-scheduler ranchercharts/k8s.gcr.io_kube-scheduler v1.9.0
+pingcap/tidb-cloud-backup ranchercharts/pingcap_tidb-cloud-backup 20190828
