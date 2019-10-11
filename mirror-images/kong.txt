@@ -1,0 +1,8 @@
+kong ranchercharts/kong 1.1
+kong-docker-kubernetes-ingress-controller.bintray.io/kong-ingress-controller ranchercharts/kong-ingress-controller 0.3.0
+cassandra ranchercharts/cassandra 3.11.3
+nuvo/cain ranchercharts/nuvo-cain 0.4.1
+criteord/cassandra_exporter ranchercharts/criteord-cassandra_exporter 2.0.2
+bitnami/postgresql ranchercharts/bitnami-postgresql 10.6.0
+bitnami/minideb ranchercharts/bitnami-minideb latest
+wrouesnel/postgres_exporter ranchercharts/wrouesnel-postgres_exporter v0.4.6
