@@ -1,0 +1,4 @@
+docker.io/rocketchat/rocket.chat ranchercharts/rocketchat-rocket.chat 1.3.1
+bitnami/mongodb ranchercharts/bitnami-mongodb 4.0.12-debian-9-r5
+bitnami/minideb ranchercharts/bitnami-minideb latest
+bitnami/mongodb-exporter ranchercharts/bitnami-mongodb-exporter 0.8.0-debian-9-r4

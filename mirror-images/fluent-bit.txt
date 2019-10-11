@@ -1,0 +1,2 @@
+fluent/fluent-bit ranchercharts/fluent-fluent-bit 1.2.2
+dduportal/bats ranchercharts/dduportal-bats 0.4.0
