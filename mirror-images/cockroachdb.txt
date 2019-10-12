@@ -1,0 +1,2 @@
+cockroachdb/cockroach ranchercharts/cockroachdb-cockroach v19.1.5
+cockroachdb/cockroach-k8s-request-cert ranchercharts/cockroachdb-cockroach-k8s-request-cert 0.4
