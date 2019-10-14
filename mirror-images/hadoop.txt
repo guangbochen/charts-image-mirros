@@ -1,0 +1,2 @@
+danisla/hadoop ranchercharts/danisla-hadoop 2.9.0
+dylanmei/zeppelin ranchercharts/dylanmei-zeppelin 0.7.2
