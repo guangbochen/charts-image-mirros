@@ -1,0 +1,2 @@
+memcached ranchercharts/memcached 1.5.12-alpine
+quay.io/prometheus/memcached-exporter ranchercharts/prometheus-memcached-exporter v0.4.1
