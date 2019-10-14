@@ -1,0 +1,4 @@
+unguiculus/mongodb-install ranchercharts/unguiculus-mongodb-install 0.7
+busybox ranchercharts/busybox 1.29.3
+mongo ranchercharts/mongo 3.6
+ssalaues/mongodb-exporter ranchercharts/ssalaues-mongodb-exporter 0.6.1
