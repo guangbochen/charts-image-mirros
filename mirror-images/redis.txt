@@ -1,0 +1,4 @@
+bitnami/redis ranchercharts/bitnami-redis 5.0.5-debian-9-r95
+bitnami/redis-sentinel ranchercharts/bitnami-redis-sentinel 5.0.5-debian-9-r37
+bitnami/redis-exporter ranchercharts/bitnami-redis-exporter 1.0.4-debian-9-r4
+bitnami/minideb ranchercharts/bitnami-minideb latest
