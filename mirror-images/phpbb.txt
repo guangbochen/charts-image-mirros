@@ -1,0 +1,2 @@
+bitnami/phpbb ranchercharts/bitnami-phpbb 3.2.7-debian-9-r94
+bitnami/apache-exporter ranchercharts/bitnami-apache-exporter 0.7.0-debian-9-r22
