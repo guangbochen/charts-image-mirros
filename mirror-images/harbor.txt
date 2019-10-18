@@ -11,3 +11,4 @@ goharbor/notary-server-photon ranchercharts/goharbor-notary-server-photon v0.6.1
 goharbor/notary-signer-photon ranchercharts/goharbor-notary-signer-photon v0.6.1-v1.9.1
 goharbor/harbor-db ranchercharts/goharbor-harbor-db v1.9.1
 goharbor/redis-photon ranchercharts/goharbor-redis-photon v1.9.1
+goharbor/harbor-core ranchercharts/goharbor-harbor-core v1.9.1
