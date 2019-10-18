@@ -1,3 +1,5 @@
 docker.io/drone/drone ranchercharts/drone-drone 1.2
 docker.io/drone/agent ranchercharts/drone-agent 1.2
 docker.io/library/docker ranchercharts/library-docker 18.06.1-ce-dind
+docker.io/drone/drone ranchercharts/drone-drone 1.6.0
+docker.io/drone/agent ranchercharts/drone-agent 1.6.0
