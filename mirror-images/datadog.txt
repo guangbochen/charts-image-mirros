@@ -1,0 +1,2 @@
+docker.io/datadog/agent ranchercharts/datadog-agent 7
+docker.io/datadog/cluster-agent ranchercharts/datadog-cluster-agent 1.5.2
